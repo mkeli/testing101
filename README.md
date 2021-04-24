@@ -1,3 +1,1 @@
 # testing101
-# how to biol an egg
-# 1. Get Caserole and add water...
